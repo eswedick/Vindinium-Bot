@@ -1,0 +1,2 @@
+B:\Projects\Vindinium\C# bot\vindinium-starter-csharp-master\vindinium\bin\Debug\client.exe.config
+B:\Projects\Vindinium\Vindinium#\vindinium\bin\Debug\client.exe.config
